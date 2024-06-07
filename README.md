@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [dangminhphong912@gmail.com](mailto:dangminhphong912@gmail.com)
-* 🧠  I'm learning Flutter and more server languages programming
+* 🧠  Currently I'm learning Flutter
 
 ### Skills
 
